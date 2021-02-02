@@ -207,8 +207,7 @@
       }
     }
   },
-  "name": "Git Integration Practice",
-  "projectStatus": "Sandbox",
+  "name": "Git Integration Practice (prune-flow)",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -265,11 +264,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 123,
+    "versionNumber": 125,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1612290049233
+    "lastModifiedOn": 1612290918623
   },
   "creationTag": {
     "versionNumber": 0,
@@ -279,9 +278,10 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n",
+  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n\nThe project *GIT_INTEGRATION_PRACTICE_PRUNE_FLOW* was copied from *DKU_HAIKU_STARTER_1* by Administrator on Feb 02nd 2021",
   "tags": [
-    "tutorial"
+    "tutorial",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
