@@ -97,7 +97,7 @@
     "users": []
   },
   "tutorialProject": true,
-  "tutorialId": "DKU_TUTORIAL_AUTOMATION",
+  "tutorialId": "DKU_HAIKU_STARTER",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "gitCommitMode": "AUTO",
@@ -206,7 +206,8 @@
       }
     }
   },
-  "name": "Haiku Starter",
+  "name": "Haiku Starter for Administrator",
+  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -263,11 +264,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 120,
+    "versionNumber": 121,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1612285609218
+    "lastModifiedOn": 1612285612256
   },
   "creationTag": {
     "versionNumber": 0,
