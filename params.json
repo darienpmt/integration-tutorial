@@ -206,7 +206,7 @@
       }
     }
   },
-  "name": "Haiku Starter for Administrator",
+  "name": "Git Integration Practice",
   "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
@@ -264,11 +264,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 121,
+    "versionNumber": 122,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1612285612256
+    "lastModifiedOn": 1612285628717
   },
   "creationTag": {
     "versionNumber": 0,
